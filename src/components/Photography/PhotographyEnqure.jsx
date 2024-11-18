@@ -4,7 +4,7 @@ const PhotographyEnqure = () => {
   return (
     <div>  <div className=" relative flex justify-center items-center enquireCard w-full h-[600px] mt-6 overflow-hidden">
     <img className="w-full object-cover" 
-    src= "https://img.freepik.com/free-photo/beautiful-woman-long-red-dress-walks-around-city-with-her-husband_1157-13392.jpg?t=st=1731720864~exp=1731724464~hmac=c418c7992386048c5d32d8ca8e8202a924edbef3430541734c6458222680e797&w=996"
+    src= "https://cdn.pixabay.com/photo/2014/09/13/04/59/couple-443600_960_720.jpg"
     alt="image" />
     <div className='absolute flex flex-col gap-6 justify-center items-center '>
 
