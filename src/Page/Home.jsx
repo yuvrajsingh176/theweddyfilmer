@@ -6,6 +6,7 @@ import HomeShowcaseFilm from "../components/Home/HomeShowcaseFilm";
 import InstragramPost from "../components/Home/InstagramPost";
 import HomeEnquire from "../components/Home/HomeEnquire";
 import Clients from "../components/Home/Clients";
+import HomeVideoCard from "../components/Home/HomeVideoCard";
 
 const Home = () => {
   return (
@@ -20,6 +21,7 @@ const Home = () => {
       </div>
       <HomeShowcaseFilm/>
       <InstragramPost/>
+      <HomeVideoCard />
       <HomeEnquire/>
       {/* <Clients /> */}
     </div>
